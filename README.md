@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Tomas</h1>
-<h3 align="center">A passionate Software Developer from Slovakia</h3>
+<h3 align="center">A passionate Software and Web Developer from Slovakia</h3>
 
 - 🔭 I’m currently working on **Tracking of Dystonia, C#/.NET, Web Development**
 
-- 👨‍💻 All of my projects are available at [https://softlogicsoftware.com/#portfolio-section](https://softlogicsoftware.com/#portfolio-section)
+- 👩‍💻 Freelancer and owner of **Softlogic Software** [https://softlogicsoftware.com](https://softlogicsoftware.com)
+
+- 📁 All of my projects are available at [https://softlogicsoftware.com/#portfolio-section](https://softlogicsoftware.com/#portfolio-section)
 
 
 <h3 align="left">Languages and Tools:</h3>
