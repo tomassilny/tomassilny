@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **Tracking of Dystonia, C#/.NET, Web Development**
 
-- 👩‍💻 Freelancer and owner of **Softlogic Software** [https://softlogicsoftware.com](https://softlogicsoftware.com)
+<!--- 👩‍💻 Freelancer and owner of **Softlogic Software** [https://softlogicsoftware.com](https://softlogicsoftware.com)
 
-- 📁 All of my projects are available at [https://softlogicsoftware.com/#portfolio-section](https://softlogicsoftware.com/#portfolio-section)
+- 📁 All of my projects are available at [https://softlogicsoftware.com/#portfolio-section](https://softlogicsoftware.com/#portfolio-section)-->
 
 
 <h3 align="left">Languages and Tools:</h3>
