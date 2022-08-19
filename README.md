@@ -3,14 +3,14 @@
 
 - 🔭 I’m currently working on **Tracking of Dystonia and BodyMotion, C#/.NET, Web Development, ReactJS, Laravel**
 
-- 👩‍💻 Freelancer and owner of **Softlogic Software** [https://softlogicsoftware.com](https://softlogicsoftware.com)
+<!-- - 👩‍💻 Freelancer and owner of **Softlogic Software** [https://softlogicsoftware.com](https://softlogicsoftware.com)
 
 - 📃 Some of my projects available online:
-  - [ByteShare.net](https://byteshare.net) - Video file storage built using Laravel, HTML / CSS, Bootstrap and JS
+  - [ByteShare.net](https://byteshare.net) - Video file storage built using Laravel, HTML / CSS, Bootstrap and JS 
   - [CodeDocs.org](https://codedocs.org) - IT & Programming relative articles build using HTML / CSS / JS and PHP
-  - [SensoHealth.org](https://sensohealth.org) - Health Care Startup presentation and informative website built using WordPress
+  - [SensoHealth.org](https://sensohealth.org) - Health Care Startup presentation and informative website built using WordPress 
 
-- 📁 All of my projects are available at [https://softlogicsoftware.com/#portfolio-section](https://softlogicsoftware.com/#portfolio-section)
+- 📁 All of my projects are available at [https://softlogicsoftware.com/#portfolio-section](https://softlogicsoftware.com/#portfolio-section)-->
 
 
 <h3 align="left">Languages and Tools:</h3>
