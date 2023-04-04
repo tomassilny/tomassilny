@@ -2,11 +2,11 @@
 <h3 align="center">A passionate Software and Web Developer from Slovakia</h3>
 
 - 🔭 I’m currently working on **Tracking of Dystonia and BodyMotion Web Development, ReactJS, Laravel**
-- 👩‍💻 Freelancer and owner of **Softlogic Software** [https://softlogicsoftware.com](https://softlogicsoftware.com)
+<!-- - 👩‍💻 Freelancer and owner of **Softlogic Software** [https://softlogicsoftware.com](https://softlogicsoftware.com) -->
 - 📃 Some of my projects available online:
   - [ByteShare.net](https://byteshare.net) - Video file storage built using Laravel, HTML / CSS, JS, Bootstrap, and Python 
   - [CodeDocs.org](https://codedocs.org) - IT & Programming relative articles build using HTML / CSS / JS, and PHP
-- 📁 All of my projects are available at [https://tomassilny.github.io](https://tomassilny.github.io)
+<!-- - 📁 All of my projects are available at [https://tomassilny.github.io](https://tomassilny.github.io) -->
 
 
 <h3 align="left">Languages and Tools:</h3>
